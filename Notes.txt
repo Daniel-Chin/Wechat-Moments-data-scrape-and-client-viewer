@@ -1,0 +1,18 @@
+contentStyle:
+  1=image	SCRAPE
+  2=text
+  3=url		SCRAPE
+  4=music
+  5=Video
+  15=mini video	SCRAPE
+
+title: index/sum, timestamp, username, Likes & @s
+menu: goto, prev, next, Big Copyable Text, Likes & @s,
+	Big Picture, web, cached, play
+Grid: 
+    1, images text
+    2, text
+    3, "URL", title, text	
+    4, "MUSIC", title, description, url, text
+    5, "VIDEO", title, text
+    15, "Mini Video", text
